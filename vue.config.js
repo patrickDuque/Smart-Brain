@@ -1,3 +1,3 @@
 module.exports = {
-	publicPath : process.env.NODE_ENV === 'production' ? '/' + process.env.smart - brain + '/' : '/'
+	publicPath : process.env.NODE_ENV === 'production' ? '/' + 'smart-brain' + '/' : '/'
 };
